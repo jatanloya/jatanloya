@@ -5,7 +5,7 @@
 
 - My goal is to learn more about these concepts and build real-world applications with them to act as a stepping stone for developing enterprise-based solutions.
 
-- Looking for Privacy Engineering internship for Summer 2023.
+- Looking for full time Privacy/Security roles.
 
 
   
